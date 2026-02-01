@@ -1,0 +1,9 @@
+MPK_Full_Project.zip/
+├── HTML/ (all frontend pages)
+├── CSS/ (all stylesheets)
+├── JS/ (all JavaScript files)
+├── Python/ (Flask backend)
+├── PHP/ (alternative backend)
+├── SQL/ (database schema + sample data)
+├── Assets/ (logos, images)
+└── Documentation/ (setup guide, API docs)
